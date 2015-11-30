@@ -1,0 +1,9 @@
+{
+    "name": "timomo/util_php",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "timomo\\Util\\" : "src/"
+        }
+    }
+}
